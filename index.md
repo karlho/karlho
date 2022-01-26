@@ -1,4 +1,4 @@
-## Welcome to Karl Ho 
+## Welcome to Karl Ho website
 
 This is a demo website by GitHub Pages (Repository --> Settings --> GitHub Pages)
 
