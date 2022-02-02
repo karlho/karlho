@@ -1,5 +1,7 @@
 ## Welcome to Karl Ho website
 
+![Karl Ho](https://karlho.github.io/karlho/karlportrait140.png)
+
 This is Karl Ho website created using GitHub Pages.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
